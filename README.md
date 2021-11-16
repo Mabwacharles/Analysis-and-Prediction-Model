@@ -1,2 +1,2 @@
-# Analysis-and-Predition-Model
+# Analysis-and-Prediction-Model
 YouTube Views Analysis and Prediction
